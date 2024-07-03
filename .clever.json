@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_5efdf0d3-5102-4439-ab03-db3fb143020f",
+      "org_id": "user_7779af19-f554-40b4-b950-10f1b7302215",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_5efdf0d3-5102-4439-ab03-db3fb143020f.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_5efdf0d3-5102-4439-ab03-db3fb143020f.git",
+      "name": "psd-start-information-service",
+      "alias": "psd-start-information-service"
+    }
+  ]
+}
