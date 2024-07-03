@@ -1,1 +1,1 @@
-rootProject.name = "psdstartinformationservice"
+rootProject.name = "psd-start-information-service"
